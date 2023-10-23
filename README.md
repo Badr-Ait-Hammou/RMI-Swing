@@ -4,7 +4,9 @@
 
 # Demo
 
-https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/57d059f7-169e-4846-be26-817e26d697b4
+
+https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/eb59fae2-b778-4ca1-87f8-6d5d3c1d5485
+
 
 # Gestion Des Machines
 
@@ -13,3 +15,8 @@ https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/57d059f7-169e-4846
 # Gestion Des Salles
 
 ![gestsalle](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/88f41d48-4da0-4d6f-866a-21ce88032164)
+
+# Les Machines de Chaque Salle
+
+![findsallemachines](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/1e5a3753-4742-49cc-bc87-0f7f580d9822)
+
