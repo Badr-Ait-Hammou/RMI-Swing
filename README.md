@@ -2,23 +2,31 @@
 
 # RMI-Swing
 
-![swing db](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/2b844c23-f8e0-4d2c-9c37-95cc0c0e6faa)
+![swing db](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/03247c58-2737-4481-8bfe-09918aa76ea1)
+
 
 # Demo
 
  
-https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/eb59fae2-b778-4ca1-87f8-6d5d3c1d5485
+
+https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/60d7c020-90e9-476b-8308-ef746216fdd2
+
+
 
 
 # Gestion Des Machines
 
-![gestionm](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/ca5b9f25-9354-480c-9e8a-703afeafebf2)
+![Capture d'écran 2023-10-22 234326](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/d6968676-6745-419b-8e02-3a41f7119c73)
+
 
 # Gestion Des Salles
 
-![gestsalle](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/88f41d48-4da0-4d6f-866a-21ce88032164)
+![Capture d'écran 2023-10-22 234405](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/6b33b2c7-1f59-48c9-97ad-60d33aaf5d6c)
+
+
 
 # Les Machines de Chaque Salle
 
-![findsallemachines](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/1e5a3753-4742-49cc-bc87-0f7f580d9822)
+![Capture d'écran 2023-10-24 003818](https://github.com/Badr-Ait-Hammou/RMI-Swing/assets/121731124/44112e04-1a02-4ca9-bb7c-387a68f0a852)
+
 
